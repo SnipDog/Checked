@@ -1,4 +1,4 @@
-package com.studyjams.js0261.checked;
+package cn.studyjams.js0261.checked;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -7,7 +7,6 @@ import android.view.View;
 
 import com.google.firebase.analytics.FirebaseAnalytics;
 
-import cn.studyjams.js0261.checked.R;
 
 public class MainActivity extends Activity {
 
@@ -23,7 +22,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 buttonClickTime();
-                startActivity(new Intent(getApplicationContext(),ListActivity.class));
+                startActivity(new Intent(getApplicationContext(), ListActivity.class));
             }
         });
 

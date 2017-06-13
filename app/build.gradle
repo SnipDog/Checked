@@ -7,8 +7,8 @@ android {
     buildToolsVersion "25.0.0"
     defaultConfig {
         applicationId "cn.studyjams.js0261.checked"
-        minSdkVersion 23
-        targetSdkVersion 23
+        minSdkVersion 15
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"

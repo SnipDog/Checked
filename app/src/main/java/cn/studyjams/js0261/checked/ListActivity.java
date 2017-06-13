@@ -1,4 +1,4 @@
-package com.studyjams.js0261.checked;
+package cn.studyjams.js0261.checked;
 
 import android.app.Activity;
 import android.content.Context;
