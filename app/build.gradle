@@ -7,7 +7,7 @@ android {
     buildToolsVersion "25.0.0"
     defaultConfig {
         applicationId "cn.studyjams.js0261.checked"
-        minSdkVersion 15
+        minSdkVersion 23
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

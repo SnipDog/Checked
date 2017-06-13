@@ -34,6 +34,7 @@ captures/
 
 # Intellij
 *.iml
+/idea
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -53,4 +54,3 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
->>>>>>> 64969cbe720aa527867607563fb19209385f888d
